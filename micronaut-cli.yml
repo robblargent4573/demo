@@ -1,0 +1,6 @@
+applicationType: function
+defaultPackage: com.example
+testFramework: junit
+sourceLanguage: kotlin
+buildTool: gradle_kotlin
+features: [annotation-api, app-name, asciidoctor, aws-lambda, data, data-jpa, flyway, gradle, jdbc-hikari, junit, kotlin, log4j2, mysql, readme, shade, testcontainers, yaml]
